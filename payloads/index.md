@@ -8,11 +8,11 @@ page: "index"
 
 ## General Information
 
-刘兰涛 Liu Lantao
+xundao
 
 Location: Beijing and Shanghai, China
 
-Online presence：https://about.me/liulantao
+#:100:
 
 ## Skills
 
