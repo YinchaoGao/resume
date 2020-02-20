@@ -6,8 +6,6 @@
 
 可快速集成多种主题
 
-支持 katex 数学公式
-
 支持 [emotion](https://github.com/matchilling/gatsby-remark-emojis/blob/master/emoji.md) 表情
 
 ## Preview
