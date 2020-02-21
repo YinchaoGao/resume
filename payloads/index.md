@@ -14,6 +14,8 @@ Location: Beijing and Shanghai, China
 
 #:100:
 
+<i class="fa fa-gamepad"></i>
+
 ## Skills
 
 Focus on large-scale production system management and optimization,
