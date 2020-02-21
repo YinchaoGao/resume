@@ -14,14 +14,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 hr {
-    margin-bottom: 0.8em;
+    margin-bottom: 0.2em;
 }
 
 p {
-    margin-top: 0.6em !important;
-    margin-bottom: 0.6em !important;
+    margin-top: 0.2em !important;
+    margin-bottom: 0.2em !important;
 }
 
 * {
-    line-height: 0.8em;
+    line-height: 1.2em;
 }
