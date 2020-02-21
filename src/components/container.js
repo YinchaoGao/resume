@@ -1,7 +1,6 @@
 import styled from "@emotion/styled"
 const Container = styled.div`
   margin: 0 auto;
-  padding: 1em 0;
   @media (min-width: 1200px) {
     max-width: 1140px;
   }
