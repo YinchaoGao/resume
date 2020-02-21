@@ -4,6 +4,8 @@
 
 支持 markdown 语法
 
+支持 Font Awesome 图标
+
 可快速集成多种主题
 
 支持 [emotion](https://github.com/matchilling/gatsby-remark-emojis/blob/master/emoji.md) 表情
