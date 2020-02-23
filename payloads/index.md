@@ -1,5 +1,5 @@
 ---
-title: "高寅超的个人简历"
+title: "resume"
 date: "2017-08-10"
 page: "index"
 ---
