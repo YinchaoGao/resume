@@ -56,5 +56,7 @@ module.exports = {
     },
     `gatsby-plugin-emotion`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-less`,
+    `gatsby-plugin-purgecss`,
   ],
 }
