@@ -1,7 +1,7 @@
 ---
 title: "resume"
 date: "2017-08-10"
-page: "index"
+page: "java"
 ---
 
 # 高寅超

@@ -1,10 +1,10 @@
 ---
 title: "resume"
 date: "2017-08-10"
-page: "index"
+page: "frontend"
 ---
 
-# 高寅超
+## 高寅超
 
 ## <i class="fa fa-user-circle-o"></i>&nbsp;基本信息
 
@@ -17,6 +17,8 @@ page: "index"
 联系电话：13263201672
 
 电子邮箱：13263201672@163.com
+
+Github: [YinchaoGao](https://github.com/YinchaoGao)
 
 ## <i class="fa fa-graduation-cap"></i>&nbsp;教育背景
 
@@ -32,19 +34,17 @@ page: "index"
 
 ---
 
-1. 熟悉 Java、Python 后端编程语言，了解 Golang。
+1. 熟悉 JavaScript、CSS、HTML，掌握 react、Vuejs 前端框架。
 
-2. 了解 Linux 操作系统，熟练掌握 make、git、tcpdump、Wireshark、sed、awk、find、grep 等相关命令。
+2. 熟悉 nodejs，掌握 less、webpack、gulp 等构建工具。
 
-3. 熟悉 MySQL、Redis、MongoDB 数据库，了解内部工作原理。
+3. 熟悉 express、ThinkJS，了解 next、nuxt 服务端渲染技术。
 
-4. 熟悉 Docker 虚拟化技术，能够编写 Dockerfile 构建镜像及使用 docker-compose 进行部署。
+4. 熟悉 MySQL， 了解 Redis、MongoDB 数据库。
 
-5. 熟悉 nodejs 相关技术，熟练掌握 less、webpack、gulp 等相关构建工具。
+5. 熟悉 Java、Python 后端编程语言，了解 Golang。
 
-6. 熟悉 JavaScript、CSS、HTML 前端技术，熟练掌握 react、Vuejs 前端框架。
-
-7. 了解目标检测、实例分割图像处理技术，能够使用 pytorch 实现论文算法。
+6. 熟悉 Linux 操作系统，熟练掌握 make、git、tcpdump、Wireshark、sed、awk、find、grep 等相关命令的使用。
 
 ## <i class="fa fa-gift"></i>&nbsp;校园经历
 
@@ -60,10 +60,14 @@ page: "index"
 
 5. 2018 年末，申请进入学校计算机视觉实验室进行学习，学习目标检测、实例分割理论技术。
 
-## <i class="fa fa-github"></i>&nbsp;开源贡献
+## <i class="fa fa-github"></i>&nbsp;开源成就
 
 ---
 
-1. 参与 neovim 插件 [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) 的开发，添加 [Graphviz](http://graphviz.org/) 渲染功能。
+1. 参与 neovim 插件 [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) 的开发，添加 [Graphviz](http://graphviz.org/) 渲染功能。https://github.com/iamcco/markdown-preview.nvim
 
-2. 个人简历生成器（本简历生成工具），https://github.com/YinchaoGao/resume。
+2. 简单操作系统实现。https://github.com/YinchaoGao/os-practice
+
+3. 个人简历生成器（本简历生成工具）。https://github.com/YinchaoGao/resume
+
+4. Semantic UI 实现博客系统前端部分。https://github.com/YinchaoGao/blog-browser
